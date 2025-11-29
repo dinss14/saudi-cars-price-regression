@@ -25,18 +25,7 @@ Model ini menganalisis fitur-fitur penting seperti **Umur Mobil (Car Age), Ukura
 
 * Python (pandas, numpy, seaborn, matplotlib)
 * Scikit-learn, Category Encoders, XGBoost, LightGBM, CatBoost
-* Joblib untuk menyimpan model
 
-### **Struktur Repository**
-
-```
-├── data/                # Dataset mentah dan hasil preprocessing
-├── notebooks/           # Notebook EDA, preprocessing, dan modeling
-├── models/              # Model yang sudah dilatih
-├── scripts/             # Script utilitas untuk preprocessing, training, evaluasi
-├── README.md            # Ikhtisar proyek dan petunjuk
-└── requirements.txt     # Dependensi Python
-```
 
 Proyek ini menunjukkan bagaimana **pricing berbasis data** dapat meningkatkan efisiensi dan transparansi di pasar mobil bekas, sekaligus menjadi dasar untuk pengembangan fitur lebih lanjut seperti ensemble model, integrasi marketplace, dan rekomendasi harga otomatis.
 
